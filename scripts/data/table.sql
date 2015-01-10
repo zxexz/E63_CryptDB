@@ -1,0 +1,1 @@
+CREATE TABLE USERDATA ( first VARCHAR(255), last VARCHAR(255), balance INT, userid VARCHAR(255), height INT, zipcode INT );
